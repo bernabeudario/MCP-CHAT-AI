@@ -1,0 +1,12 @@
+[project]
+name = "MCP-CHAT-AI"
+version = "0.1.0"
+description = "ChatAI integrado con MCP"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dotenv>=0.9.9",
+    "mcp>=1.9.4",
+    "nest-asyncio>=1.6.0",
+    "openai>=1.86.0",
+]
