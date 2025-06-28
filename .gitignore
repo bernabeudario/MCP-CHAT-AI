@@ -1,0 +1,11 @@
+# Python Virtual Environment
+.venv
+
+# Environment Variables
+.env
+
+# Git Files
+.git
+
+# Images README
+img-portada.jpg
